@@ -1,0 +1,1 @@
+This file requires Python 3.6 with the following packages: pandas, numpy, matplotlib, sklearn.
